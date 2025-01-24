@@ -313,6 +313,7 @@ body {
   border: 1px solid;
   border-color: var(--border-dark) var(--border-light) var(--border-light)
     var(--border-dark);
+  border-radius: 0;
   -webkit-user-select: none;
      -moz-user-select: none;
           user-select: none;
